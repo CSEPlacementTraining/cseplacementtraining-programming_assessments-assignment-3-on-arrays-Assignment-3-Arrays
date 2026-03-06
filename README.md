@@ -1,5 +1,6 @@
 # Assignment-03-Arrays
 **Placement Training Assignment 03 – Arrays**
+
 Return a new array after removing all negative numbers.
 
 **Sample Input:**
