@@ -3,11 +3,4 @@
 
 Return a new array after removing all negative numbers.
 
-**Sample Input:**
--5 3 -2 7 8 -1 4
-
-**Expected Output:**
-3 
-7
-8 
-4
+<img width="179" height="182" alt="image" src="https://github.com/user-attachments/assets/32d15d26-dee2-4426-901f-d4a9b006be29" />
