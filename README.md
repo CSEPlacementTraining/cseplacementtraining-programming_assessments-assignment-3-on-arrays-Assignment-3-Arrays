@@ -7,4 +7,7 @@ Return a new array after removing all negative numbers.
 -5 3 -2 7 8 -1 4
 
 **Expected Output:**
-3 7 8 4
+3 
+7
+8 
+4
